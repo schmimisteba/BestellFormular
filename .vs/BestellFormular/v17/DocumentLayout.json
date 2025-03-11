@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mischa.schmid\\source\\git\\BestellFormular\\",
+  "WorkspaceRootPath": "C:\\Git\\BestellFormular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\users\\mischa.schmid\\source\\git\\bestellformular\\bestellformular\\models\\adresshead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\models\\bestellformularcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\models\\bestellformularcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\models\\adresshead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\models\\adresshead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\users\\mischa.schmid\\source\\git\\bestellformular\\bestellformular\\models\\helper\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\models\\helper\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|c:\\git\\bestellformular\\bestellformular\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29073EE3-6D64-40D4-80D9-51C35F25A4CC}|BestellFormular\\BestellFormular.csproj|solutionrelative:bestellformular\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,39 +41,113 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 810,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 1117,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdressHead.cs",
-              "DocumentMoniker": "C:\\Users\\mischa.schmid\\source\\git\\BestellFormular\\BestellFormular\\Models\\AdressHead.cs",
-              "RelativeDocumentMoniker": "BestellFormular\\Models\\AdressHead.cs",
-              "ToolTip": "C:\\Users\\mischa.schmid\\source\\git\\BestellFormular\\BestellFormular\\Models\\AdressHead.cs",
-              "RelativeToolTip": "BestellFormular\\Models\\AdressHead.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwEcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:23:11.313Z",
+              "DocumentIndex": 2,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "BestellFormular\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\Views\\MainView.xaml",
+              "RelativeToolTip": "BestellFormular\\Views\\MainView.xaml",
+              "ViewState": "AgIAABoBAAAAAAAAAAAQwEMBAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T07:23:04.622Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BestellFormularController.cs",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\Models\\BestellFormularController.cs",
+              "RelativeDocumentMoniker": "BestellFormular\\Models\\BestellFormularController.cs",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\Models\\BestellFormularController.cs",
+              "RelativeToolTip": "BestellFormular\\Models\\BestellFormularController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:22:04.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdressHead.cs",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\Models\\AdressHead.cs",
+              "RelativeDocumentMoniker": "BestellFormular\\Models\\AdressHead.cs",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\Models\\AdressHead.cs",
+              "RelativeToolTip": "BestellFormular\\Models\\AdressHead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:22:02.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "BestellFormular\\Models\\Address.cs",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\Models\\Address.cs",
+              "RelativeToolTip": "BestellFormular\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:22:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BestellFormular\\App.xaml.cs",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\App.xaml.cs",
+              "RelativeToolTip": "BestellFormular\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:14:31.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "BestellFormular\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "BestellFormular\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:12:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "BestellFormular\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "BestellFormular\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:02:54.934Z"
             }
           ]
         },
         {
-          "DockedWidth": 810,
+          "DockedWidth": 1117,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExcelHelper.cs",
-              "DocumentMoniker": "C:\\Users\\mischa.schmid\\source\\git\\BestellFormular\\BestellFormular\\Models\\Helper\\ExcelHelper.cs",
-              "RelativeDocumentMoniker": "BestellFormular\\Models\\Helper\\ExcelHelper.cs",
-              "ToolTip": "C:\\Users\\mischa.schmid\\source\\git\\BestellFormular\\BestellFormular\\Models\\Helper\\ExcelHelper.cs",
-              "RelativeToolTip": "BestellFormular\\Models\\Helper\\ExcelHelper.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:21:25.004Z",
+              "DocumentIndex": 3,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Git\\BestellFormular\\BestellFormular\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "BestellFormular\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Git\\BestellFormular\\BestellFormular\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "BestellFormular\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T07:24:59.94Z",
               "EditorCaption": ""
             }
           ]
